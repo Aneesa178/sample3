@@ -1,0 +1,39 @@
+/* #p1{
+    color: blueviolet;
+    
+}
+#p2{
+    color: darkblue;
+}
+#p3{
+    color: gold;
+}
+.bg1{
+    background-color:red;
+} */
+#d1{
+    height:100px;
+    width: 100px;
+    /* border: 3px solid blue; */
+
+}
+#d2{
+    height:100px;
+    width: 100px;
+    border: 3px solid blue;
+    margin-left: 106px;
+    margin-top: -106px;
+
+}
+.cd{
+    background-color: yellowgreen;
+}
+#d3{
+    height:100px;
+    width: 100px;
+    border: 3px solid blue;
+    margin-left: 206px;
+    
+
+   
+}
